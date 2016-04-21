@@ -9,6 +9,7 @@ git-test
 # how to apply code you modify
 	git add -A or git add "specific file name"
 	git commit -m "message script"
-	git push
+	git push origin "branch" ex) git push origin master
+
 
 
